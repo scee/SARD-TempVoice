@@ -1,2 +1,2 @@
-# Aquisi-o-de-Dados-e-Reconhecimento-de-Voz-SARD-
+# Aquisição-de-Dados-e-Reconhecimento-de-Voz-SARD-
 O objetivo deste exercício de Sistemas de Aquisição e Registo de Dados (SARD) foi desenvolver um sistema modular capaz de adquirir dados de sensores físicos, capturar input humano via reconhecimento de voz e armazenar tudo de forma estruturada. O projeto foca-se na leitura de um sensor de temperatura e humidade (SHT30) e na recolha do estado do tempo indicado pelo utilizador, registando todas as informações num ficheiro CSV (registos.csv) para posterior análise. 
