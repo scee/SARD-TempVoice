@@ -1,8 +1,8 @@
 import serial
 import time
 
-ser = serial.Serial('COM6', 115200, timeout=2)
-time.sleep(2)
+ser = serial.Serial('COM5', 115200, timeout=2)
+time.sleep(4)
 ser.reset_input_buffer()
 
 def ler_sensor():

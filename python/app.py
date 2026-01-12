@@ -28,4 +28,4 @@ while True:
         except ValueError:
             print("Erro a processar os dados:", dados)
 
-        time.sleep(2)
+        time.sleep(3)
